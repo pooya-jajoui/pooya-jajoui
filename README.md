@@ -4,7 +4,7 @@
   <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=30&duration=3000&pause=1000&color=00C781&center=true&vCenter=true&width=550&lines=Hi+There,+I'm+Pooya!+👋;Python+%26+Django+Developer;Web+Designer+%26+Backend+Dev;Turning+Ideas+into+Clean+Code+💻" alt="Typing SVG" />
 
   <p align="center">
-    <strong>🐍 توسعه‌دهنده وب و برنامه‌نویس پایتون و جنگو | مسلط به فرانت‌اند و طراحی وب</strong>
+    <strong>🐍 توسعه‌دهنده وب و برنامه‌نویس پایتون و جنگو </strong>
   </p>
 
   <!-- شبکه‌های اجتماعی و راه‌های ارتباطی -->
