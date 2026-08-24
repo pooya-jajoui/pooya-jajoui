@@ -60,7 +60,19 @@
 
 ---
 
-### 📊 GitHub Activity
+### 🐍 Contribution Activity
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pooya-jajoui/pooya-jajoui/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/pooya-jajoui/pooya-jajoui/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/pooya-jajoui/pooya-jajoui/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
+
+---
+
+### 📊 GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=pooya-jajoui&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Pooya's GitHub Stats" width="48%" />
