@@ -1,96 +1,67 @@
 <div align="center">
+  <h1>Hi, I'm Pooya 👋</h1>
+  <p><strong>Python & Django Developer | Web Enthusiast</strong></p>
+  <p>I build clean, functional web applications with Python & Django, focusing on solid backend logic and responsive user interfaces.</p>
 
-  <!-- بنر انیمیشنی با افکت تایپ اختصاصی برای پویا -->
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=30&duration=3000&pause=1000&color=00C781&center=true&vCenter=true&width=550&lines=Hi+There,+I'm+Pooya!+👋;Python+%26+Django+Developer;Web+Designer+%26+Backend+Dev;Turning+Ideas+into+Clean+Code+💻" alt="Typing SVG" />
-
-  <p align="center">
-    <strong>🐍 توسعه‌دهنده وب و برنامه‌نویس پایتون و جنگو </strong>
+  <p>
+    <a href="https://t.me/onlypooya" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white" alt="Telegram" /></a>
+    <a href="https://instagram.com/pooyajajoui" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" /></a>
+    <a href="mailto:viperjajoui@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+    <a href="https://github.com/pooya-jajoui"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
   </p>
-
-  <!-- شبکه‌های اجتماعی و راه‌های ارتباطی -->
-  <p align="center">
-    <a href="https://t.me/onlypooya" target="_blank">
-      <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
-    </a>
-    <a href="https://instagram.com/pooyajajoui" target="_blank">
-      <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-    </a>
-    <a href="mailto:viperjajoui@gmail.com">
-      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-    </a>
-    <a href="https://github.com/pooya-jajoui" target="_blank">
-      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-    </a>
-  </p>
-
 </div>
 
 ---
 
-### 👨‍💻 درباره من (About Me)
+### 📌 About Me
 
-- 🔭 در حال توسعه وب‌اپلیکیشن‌ها و پروژه‌های وب با **Python** و **Django**
-- 🎨 پیاده‌سازی و طراحی رابط‌های کاربری جذاب و واکنش‌گرا با **HTML5** و **CSS3**
-- 🤖 استفاده از ادیتورها و ابزارهای مدرن هوش مصنوعی برای توسعه سریع و کدهای بهینه
-- 💬 با من درباره **پایتون، معماری جنگو و طراحی وب** صحبت کنید!
-- ⚡ عاشق حل مسئله و تبدیل ایده‌ها به کدهای واقعی و کاربردی ☕
-
----
-
-### 🛠️ مهارت‌ها و فناوری‌ها (Tech Stack)
-
-<div align="center">
-
-  <!-- بخش بک‌اند -->
-  <h4>🐍 Backend & Frameworks</h4>
-  <p>
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-    <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
-    <img src="https://img.shields.io/badge/Django_REST-ff1709?style=for-the-badge&logo=django&logoColor=white" alt="DRF" />
-  </p>
-
-  <!-- بخش فرانت‌اند -->
-  <h4>🎨 Frontend & Web Design</h4>
-  <p>
-    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-    <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
-  </p>
-
-  <!-- پایگاه داده -->
-  <h4>🗄️ Databases</h4>
-  <p>
-    <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-    <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
-    <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-  </p>
-
-  <!-- ادیتورها و IDEها -->
-  <h4>💻 IDEs & Editors</h4>
-  <p>
-    <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
-    <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white" alt="Cursor" />
-    <img src="https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white" alt="PyCharm" />
-    <img src="https://img.shields.io/badge/Antigravity_IDE-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Antigravity" />
-    <img src="https://img.shields.io/badge/OpenCode-2B2D42?style=for-the-badge&logo=codeigniter&logoColor=white" alt="OpenCode" />
-  </p>
-
-  <!-- ابزارها و کنترل ورژن -->
-  <h4>⚙️ Tools & Workflow</h4>
-  <p>
-    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-    <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
-  </p>
-
-</div>
+- 💻 **Backend & Web:** Developing web applications with **Python** and **Django**.
+- 🎨 **Frontend:** Crafting semantic and responsive interfaces using **HTML5**, **CSS3**, and **Bootstrap**.
+- 🛠️ **Workflow:** Coding with modern AI-assisted workflows using **VS Code**, **Cursor**, **PyCharm**, and **Antigravity IDE**.
+- 🎯 **Goals:** Constantly improving database design, writing cleaner code, and learning best practices in web architecture.
 
 ---
 
-### 📊 آمار گیت‌هاب (GitHub Stats)
+### 🚀 Featured Project
+
+| Project | Description | Tech Stack |
+| :--- | :--- | :--- |
+| 📚 [**BookNest Project**](https://github.com/pooya-jajoui/BookNest_Project) | A web application for managing, organizing, and exploring books. | `Python` `Django` `HTML/CSS` |
+
+---
+
+### 🛠️ Tech Stack & Tools
+
+**Languages & Backend**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![Django REST](https://img.shields.io/badge/Django_REST-ff1709?style=flat-square&logo=django&logoColor=white)
+
+**Frontend & Design**  
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
+
+**Databases**  
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+
+**Editors & Tools**  
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+![Cursor](https://img.shields.io/badge/Cursor-000000?style=flat-square&logo=cursor&logoColor=white)
+![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=flat-square&logo=pycharm&logoColor=white)
+![Antigravity](https://img.shields.io/badge/Antigravity_IDE-4285F4?style=flat-square&logo=google&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+
+---
+
+### 📊 GitHub Activity
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pooya-jajoui&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=pooya-jajoui&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Pooya's GitHub Stats" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pooya-jajoui&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
 </div>
 
@@ -103,6 +74,5 @@
 ---
 
 <div align="center">
-  <!-- شمارنده تعداد کل بازدیدهای پروفایل شما -->
   <img src="https://komarev.com/ghpvc/?username=pooya-jajoui&style=flat-square&color=00C781&label=Profile+Views" alt="Profile Views" />
 </div>
