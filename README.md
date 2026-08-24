@@ -1,9 +1,10 @@
 <div align="center">
   <h1>Hi, I'm Pooya 👋</h1>
-  <p><strong>Python & Django Developer | Web Enthusiast</strong></p>
-  <p>I build clean, functional web applications with Python & Django, focusing on solid backend logic and responsive user interfaces.</p>
+  <p><strong>Software Engineering Student & Backend Developer | Python • Django • SQL</strong></p>
+  <p>I build clean, functional web applications with Python & Django, focusing on solid backend logic, database management, and responsive interfaces.</p>
 
   <p>
+    <a href="https://www.linkedin.com/in/pooya-jajoui-73294a387/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
     <a href="https://t.me/onlypooya" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white" alt="Telegram" /></a>
     <a href="https://instagram.com/pooyajajoui" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" /></a>
     <a href="mailto:viperjajoui@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
@@ -15,10 +16,11 @@
 
 ### 📌 About Me
 
-- 💻 **Backend & Web:** Developing web applications with **Python** and **Django**.
+- 🎓 **Education:** Software Engineering Student passionate about software development and clean architecture.
+- 💻 **Backend & Web:** Developing web applications with **Python**, **Django**, and **SQL**.
 - 🎨 **Frontend:** Crafting semantic and responsive interfaces using **HTML5**, **CSS3**, and **Bootstrap**.
 - 🛠️ **Workflow:** Coding with modern AI-assisted workflows using **VS Code**, **Cursor**, **PyCharm**, and **Antigravity IDE**.
-- 🎯 **Goals:** Constantly improving database design, writing cleaner code, and learning best practices in web architecture.
+- 🎯 **Current Focus:** Deepening knowledge in database design, REST APIs, and writing maintainable code.
 
 ---
 
