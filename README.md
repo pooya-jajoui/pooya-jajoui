@@ -20,19 +20,26 @@
 ```python
 pooya = {
     "role": "Backend Developer & Software Engineering Student",
-    "core": ["Python", "Django", "Django REST Framework", "SQL"],
-    "frontend": ["HTML", "CSS"],
-    "workflow": "AI-assisted development / vibe coding",
+    "core": ["Python", "Django"],
+    "databases": "Foundational knowledge of relational databases",
+    "frontend": ["HTML", "CSS", "Bootstrap"],
+    "workflow": "AI assistance with hands-on review and debugging",
     "interests": ["REST APIs", "Database Design", "Clean Architecture"],
     "building": "Practical products with reliable backend logic",
 }
 ```
 
-I focus on Python and Django backend development, including data models, REST APIs, authentication, and commerce workflows. My frontend skills are HTML and CSS. I use AI-assisted development (vibe coding) to build interfaces with React and other frontend tools used in my projects.
+I'm a backend developer and software engineering student, with strong proficiency in **Python and Django**. Backend development is my main focus and the work I enjoy most, from application logic and authentication to APIs and commerce workflows.
+
+I have foundational knowledge of relational databases and work with **HTML, CSS, and Bootstrap** on the frontend.
+
+### How I work with AI
+
+I use AI selectively to assist with parts of frontend development. I set the direction, guide the implementation, review the generated code, debug issues, and approve the final result. Design and implementation decisions stay under my supervision throughout the process.
 
 ## Projects
 
-The stacks below describe technologies used in each project. Frontend work beyond HTML and CSS is built with AI assistance through vibe coding.
+The stacks below describe technologies used in each project. Some frontend features are developed with AI assistance under my direction, review, and debugging.
 
 <table>
   <tr>
@@ -101,18 +108,22 @@ The stacks below describe technologies used in each project. Frontend work beyon
 
 <div align="center">
 
-### Backend & databases
+### Core expertise · Python & Django
 
-[![Backend](https://skillicons.dev/icons?i=python,django,postgres,mysql,sqlite&theme=dark)](https://skillicons.dev)
+[![Backend](https://skillicons.dev/icons?i=python,django&theme=dark)](https://skillicons.dev)
+
+### Databases · Foundational knowledge
+
+<p>Relational database fundamentals · SQL basics</p>
 
 ### Frontend
 
-[![Frontend](https://skillicons.dev/icons?i=html,css&theme=dark)](https://skillicons.dev)
+[![Frontend](https://skillicons.dev/icons?i=html,css,bootstrap&theme=dark)](https://skillicons.dev)
 
-### AI-assisted frontend / vibe coding
+### Additional frontend tools used with AI assistance
 
-<p>React · Vite · JavaScript · Bootstrap · Tailwind CSS</p>
-<sub>Tools used in my projects with AI assistance.</sub>
+<p>React · Vite · JavaScript · Tailwind CSS</p>
+<sub>I direct the work, review the code, debug issues, and approve the result.</sub>
 
 ### Tools & workflow
 
@@ -122,11 +133,13 @@ The stacks below describe technologies used in each project. Frontend work beyon
 
 ## What I work on
 
-- Designing Django models and relational data structures
+- Developing backend logic with Python and Django
+- Working with Django models and relational database fundamentals
 - Building REST APIs with Django REST Framework
 - Implementing authentication, user profiles, carts, and order workflows
 - Connecting AI-assisted React/Vite interfaces to Django backends
-- Building HTML/CSS interfaces and using AI assistance for richer Persian RTL experiences
+- Building interfaces with HTML, CSS, and Bootstrap
+- Guiding, reviewing, and debugging AI-assisted frontend work
 - Writing tests and organizing code for long-term maintenance
 
 ## GitHub activity
