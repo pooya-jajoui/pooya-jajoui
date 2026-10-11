@@ -21,15 +21,18 @@
 pooya = {
     "role": "Backend Developer & Software Engineering Student",
     "core": ["Python", "Django", "Django REST Framework", "SQL"],
-    "frontend": ["React", "Vite", "HTML", "CSS", "Bootstrap"],
+    "frontend": ["HTML", "CSS"],
+    "workflow": "AI-assisted development / vibe coding",
     "interests": ["REST APIs", "Database Design", "Clean Architecture"],
     "building": "Practical products with reliable backend logic",
 }
 ```
 
-I build complete web applications from data models and APIs to responsive user interfaces. My recent work focuses on Persian RTL commerce experiences, authentication, product catalogues, carts, checkout flows, and maintainable application architecture.
+I focus on Python and Django backend development, including data models, REST APIs, authentication, and commerce workflows. My frontend skills are HTML and CSS. I use AI-assisted development (vibe coding) to build interfaces with React and other frontend tools used in my projects.
 
-## Featured projects
+## Projects
+
+The stacks below describe technologies used in each project. Frontend work beyond HTML and CSS is built with AI assistance through vibe coding.
 
 <table>
   <tr>
@@ -59,6 +62,41 @@ I build complete web applications from data models and APIs to responsive user i
   </tr>
 </table>
 
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>💼 Pooya Portfolio</h3>
+      <p><img src="https://img.shields.io/badge/PRIVATE_REPOSITORY-8B5CF6?style=flat-square&logo=github&logoColor=white" alt="Private repository"></p>
+      <p>My personal portfolio project.</p>
+      <p><a href="https://github.com/pooya-jajoui/pooya_portfolio"><code>pooya_portfolio</code></a></p>
+      <p>🔒 <em>The repository is private, so its source files are not publicly accessible.</em></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>💧 International Groundwater Dashboard</h3>
+      <p><img src="https://img.shields.io/badge/PRIVATE_REPOSITORY-8B5CF6?style=flat-square&logo=github&logoColor=white" alt="Private repository"></p>
+      <p>An international groundwater dashboard project.</p>
+      <p><a href="https://github.com/pooya-jajoui/International_Groundwater_Dashboard"><code>International_Groundwater_Dashboard</code></a></p>
+      <p>🔒 <em>The repository is private, so its source files are not publicly accessible.</em></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🌊 Groundwater Dashboard · Demo</h3>
+      <p><img src="https://img.shields.io/badge/PRIVATE_REPOSITORY-8B5CF6?style=flat-square&logo=github&logoColor=white" alt="Private repository"></p>
+      <p>A demo project for the International Groundwater Dashboard.</p>
+      <p><a href="https://github.com/pooya-jajoui/International_Groundwater_Dashboard_Demo"><code>International_Groundwater_Dashboard_Demo</code></a></p>
+      <p>🔒 <em>The repository is private, so its source files are not publicly accessible.</em></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🌀 Hydrotech Redesign</h3>
+      <p><img src="https://img.shields.io/badge/PRIVATE_REPOSITORY-8B5CF6?style=flat-square&logo=github&logoColor=white" alt="Private repository"></p>
+      <p>A redesign project for Hydrotech.</p>
+      <p><a href="https://github.com/pooya-jajoui/Hydrotech_Redesign"><code>Hydrotech_Redesign</code></a></p>
+      <p>🔒 <em>The repository is private, so its source files are not publicly accessible.</em></p>
+    </td>
+  </tr>
+</table>
+
 ## Tech stack
 
 <div align="center">
@@ -69,7 +107,12 @@ I build complete web applications from data models and APIs to responsive user i
 
 ### Frontend
 
-[![Frontend](https://skillicons.dev/icons?i=react,vite,js,html,css,bootstrap,tailwind&theme=dark)](https://skillicons.dev)
+[![Frontend](https://skillicons.dev/icons?i=html,css&theme=dark)](https://skillicons.dev)
+
+### AI-assisted frontend / vibe coding
+
+<p>React · Vite · JavaScript · Bootstrap · Tailwind CSS</p>
+<sub>Tools used in my projects with AI assistance.</sub>
 
 ### Tools & workflow
 
@@ -82,8 +125,8 @@ I build complete web applications from data models and APIs to responsive user i
 - Designing Django models and relational data structures
 - Building REST APIs with Django REST Framework
 - Implementing authentication, user profiles, carts, and order workflows
-- Connecting React/Vite clients to Django backends
-- Creating responsive Persian RTL interfaces
+- Connecting AI-assisted React/Vite interfaces to Django backends
+- Building HTML/CSS interfaces and using AI assistance for richer Persian RTL experiences
 - Writing tests and organizing code for long-term maintenance
 
 ## GitHub activity
